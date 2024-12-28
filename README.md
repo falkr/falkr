@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-Here's a an overview of the work stored in here that might be useful for others:
+Here's a an overview of the work stored in here that might be useful for you:
 
 ### Development
 
-* [Supermark](https://github.com/falkr/supermark) A compiler from markdown and other markup languages to HTML, useful to create websites for university courses.
+* [Supermark](https://github.com/falkr/supermark) ([Repository](https://github.com/falkr/supermark), [Web](https://falkr.github.io/supermark/)) A compiler from markdown and other markup languages to HTML, useful to create websites for university courses.
 
 
 ###  Team-Based Learning
